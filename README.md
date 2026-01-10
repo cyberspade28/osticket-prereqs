@@ -26,7 +26,7 @@ Clean up Virtual Environment in Azure
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+Windows 10, 4 vCPUs
 
 <h2>List of Prerequisites</h2>
 
