@@ -30,11 +30,21 @@ Clean up Virtual Environment in Azure
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+Active Azure subscription
+
+Windows Server 2019 or 2022 VM
+
+Administrator access to the VM
+
+IIS installed
+
+PHP 8.0+ installed
+
+MySQL Server installed
+
+Internet access
+
+Open ports 80 and 3389 in Azure NSG
 
 <h2>Installation Steps</h2>
 
