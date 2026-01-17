@@ -73,6 +73,7 @@ From the “osTicket-Installation-Files” folder, install MySQL 5.5.62 (mysql-5
 <br />
 
 <p>
+Log into the VM with Remote Desktop
 
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/c1d9228b-310c-44e3-a733-975d6cd97051" />
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/784f5d17-a604-41bf-90bc-92e6fea4dece" />
