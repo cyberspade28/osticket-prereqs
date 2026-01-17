@@ -113,3 +113,5 @@ Password: root
 
 <img width="2560" height="1440" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/d14be91b-0376-4161-adbd-27e7f7d5d476" />
 <img width="2560" height="1440" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/f0fd8725-a165-4637-a45e-1d52894ad229" />
+Open IIS as an Admin
+<img width="2560" height="1440" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/aeee1c3d-9583-47ed-8917-206cf66d67f5" />
