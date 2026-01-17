@@ -115,3 +115,6 @@ Password: root
 <img width="2560" height="1440" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/f0fd8725-a165-4637-a45e-1d52894ad229" />
 Open IIS as an Admin
 <img width="2560" height="1440" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/aeee1c3d-9583-47ed-8917-206cf66d67f5" />
+Register PHP from within IIS (PHP Manager -> C:\PHP\php-cgi.exe)
+<img width="2560" height="1440" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/2304b052-2b53-4526-b0c3-11be5376944d" />
+
