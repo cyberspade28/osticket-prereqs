@@ -156,7 +156,8 @@ Open Heidi SQL
 Create a new session, root/root
 Connect to the session
 Create a database called “osTicket”
-<img width="2560" height="1440" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/36c236d3-be49-4956-89a4-106369b4ea80" />
+<img width="2560" height="1440" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/49c97f53-6f19-4211-9fba-558880c7ae7a" />
+
 
 
 
