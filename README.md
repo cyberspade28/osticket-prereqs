@@ -49,7 +49,6 @@ Open ports 80 and 3389 in Azure NSG
 <h2>Installation Steps</h2>
 
 <p>
-<img ![Uploading Screenshot 2026-01-09 200955.png…]()
  />
 </p>
 <p>
@@ -75,7 +74,8 @@ From the “osTicket-Installation-Files” folder, install MySQL 5.5.62 (mysql-5
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/f9fabb74-a2db-40bf-a316-8d33a66e6645" />
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
