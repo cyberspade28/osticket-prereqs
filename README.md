@@ -97,6 +97,7 @@ From the “osTicket-Installation-Files” folder install the Rewrite Module (re
 
 Create the directory C:\PHP
 <img width="2560" height="1440" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/bcf6ee1d-bcc0-40d4-8bec-d4a74f31fbe4" />
+From the “osTicket-Installation-Files” folder, unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into the “C:\PHP” folder
 
 <img width="2560" height="1440" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/9e8dc479-12ad-49c7-8fdd-70afed2fafa1" />
 
