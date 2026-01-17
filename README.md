@@ -163,6 +163,16 @@ Browse to your help desk login page: http://localhost/osTicket/scp/login.php
 - Missing PHP extensions can prevent osTicket installation
 - File permissions on ost-config.php are critical
 - Restarting IIS is required after configuration changes
+“Skills Demonstrated”
+## Skills Demonstrated
+- Azure Virtual Machine deployment
+- Windows Server administration
+- IIS configuration
+- PHP environment setup
+- MySQL database creation
+- Web application installation
+- File permissions management
+- IT documentation
 
 
 
