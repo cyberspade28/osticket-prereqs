@@ -3,14 +3,13 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
-Setup a Virtual Machine in Azure
-Install the osTicket requirements
-Install osTicket itself
-Do the after-installation configuration of osTicket
-Explore osTicket as a Help Desk Professional
-Create, interact, and close tickets
-Clean up Virtual Environment in Azure
+## Project Overview
+This project demonstrates the deployment of an osTicket help desk system
+using Microsoft Azure, Windows Server, IIS, PHP, and MySQL.
+
+The goal is to simulate a real-world IT help desk environment by installing,
+configuring, and validating a ticketing system used in many organizations.
+
 
 
 
