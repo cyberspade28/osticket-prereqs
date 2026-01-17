@@ -143,6 +143,20 @@ From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
 To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
 <img width="2560" height="1440" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/342b22c3-6de7-41b9-98ed-e4354c2a720d" />
 <img width="2560" height="1440" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/f310c8b9-8d1c-4b06-86e2-9f809a9afe02" />
+Assign Permissions: ost-config.php
+Disable inheritance -> Remove All
+New Permissions -> Everyone -> All
+<img width="2560" height="1440" alt="Screenshot (31)" src="https://github.com/user-attachments/assets/6e997c0a-13fc-4155-aa2b-265fb7b4af4a" />
+Continue Setting up osTicket in the browser (click Continue)
+Name Helpdesk
+Default email (receives email from customers)
+<img width="2560" height="1440" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/bdbe5e2a-4899-4e6a-9686-8aa4bc9a35ca" />
+From the “osTicket-Installation-Files” folder, install HeidiSQL.
+Open Heidi SQL
+Create a new session, root/root
+Connect to the session
+Create a database called “osTicket”
+<img width="2560" height="1440" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/36c236d3-be49-4956-89a4-106369b4ea80" />
 
 
 
