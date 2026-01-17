@@ -80,6 +80,8 @@ Within the VM (osticket-vm), download the osTicket-Installation-Files.zip and un
 We will use the files in this folder to install osTicket and some of the dependencies.
 
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/784f5d17-a604-41bf-90bc-92e6fea4dece" />
+Install / Enable IIS in Windows WITH CGI
+World Wide Web Services -> Application Development Features -> [X] CGI
 
 <img width="2560" height="1440" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/77040c5c-f0c4-4e38-a9df-91bfe9db8eb8" />
 
