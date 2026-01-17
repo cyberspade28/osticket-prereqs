@@ -23,7 +23,7 @@ Clean up Virtual Environment in Azure
 
 <h2>Operating Systems Used </h2>
 
-Windows 10, 4 vCPUs
+Windows Server 2019 or 2022 VM
 
 <h2>List of Prerequisites</h2>
 
