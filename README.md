@@ -117,4 +117,9 @@ Open IIS as an Admin
 <img width="2560" height="1440" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/aeee1c3d-9583-47ed-8917-206cf66d67f5" />
 Register PHP from within IIS (PHP Manager -> C:\PHP\php-cgi.exe)
 <img width="2560" height="1440" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/2304b052-2b53-4526-b0c3-11be5376944d" />
+Reload IIS (Open IIS, Stop and Start the server)
+<img width="2560" height="1440" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/f273456a-07f4-4c1b-94d3-f2344a577547" />
+<img width="2560" height="1440" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/e5a3cd6f-8920-4911-ab8c-e8f0c3d0869b" />
+
+
 
