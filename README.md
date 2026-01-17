@@ -62,7 +62,8 @@ From the “osTicket-Installation-Files” folder, install PHP Manager for IIS (
 
 Create the directory C:\PHP
 
-From the “osTicket-Installation-Files” folder, unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into the “C:\PHP” folder
+From the “osTicket-Installation-Files” folder, unzip PHP 7.3 (legacy compatibility for osTicket lab)
+
 
 From the “osTicket-Installation-Files” folder, install VC_redist.x86.exe.
 
