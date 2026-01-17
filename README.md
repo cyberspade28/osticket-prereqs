@@ -128,6 +128,16 @@ Within “c:\inetpub\wwwroot”, Rename “upload” to “osTicket”
 <img width="2560" height="1440" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/a6fabf15-90ca-4c1c-b45a-7931f5c96772" />
 Reload IIS (Open IIS, Stop and Start the server)
 <img width="2560" height="1440" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/48633f15-e8b5-43d0-baa0-af05ab8493cd" />
+Note that some extensions are not enabled
+Go back to IIS, sites -> Default -> osTicket
+Double-click PHP Manager
+Click “Enable or disable an extension”
+Enable: php_imap.dll
+Enable: php_intl.dll
+Enable: php_opcache.dll
+Refresh the osTicket site in your browser, observe the changes
+<img width="2560" height="1440" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/c11b0fd6-599d-410f-a12b-4817c6bc3914" />
+<img width="2560" height="1440" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/fadd8a23-7e06-40d4-b359-4a7c00819690" />
 
 
 
