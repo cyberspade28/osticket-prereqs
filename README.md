@@ -95,8 +95,9 @@ From the “osTicket-Installation-Files” folder, install PHP Manager for IIS (
 From the “osTicket-Installation-Files” folder install the Rewrite Module (rewrite_amd64_en-US.msi)
 <img width="2560" height="1440" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/be7425e2-5ef5-4a06-bed1-72f370a638cb" />
 
-</p>
-<p>
+Create the directory C:\PHP
+<img width="2560" height="1440" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/bcf6ee1d-bcc0-40d4-8bec-d4a74f31fbe4" />
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
