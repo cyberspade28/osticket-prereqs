@@ -120,6 +120,14 @@ Register PHP from within IIS (PHP Manager -> C:\PHP\php-cgi.exe)
 Reload IIS (Open IIS, Stop and Start the server)
 <img width="2560" height="1440" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/f273456a-07f4-4c1b-94d3-f2344a577547" />
 <img width="2560" height="1440" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/e5a3cd6f-8920-4911-ab8c-e8f0c3d0869b" />
+Install osTicket v1.15.8
+From the “osTicket-Installation-Files” folder, unzip “osTicket-v1.15.8.zip” and copy the “upload” folder into “c:\inetpub\wwwroot”
+Within “c:\inetpub\wwwroot”, Rename “upload” to “osTicket”
+<img width="2560" height="1440" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/8df9f981-abc8-4eac-8808-32fb07ebc318" />
+<img width="2560" height="1440" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/805f7f4e-a1f4-44c5-92a7-e439b2e81014" />
+<img width="2560" height="1440" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/a6fabf15-90ca-4c1c-b45a-7931f5c96772" />
+Reload IIS (Open IIS, Stop and Start the server)
+<img width="2560" height="1440" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/48633f15-e8b5-43d0-baa0-af05ab8493cd" />
 
 
 
