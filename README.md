@@ -49,7 +49,8 @@ Open ports 80 and 3389 in Azure NSG
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img ![Uploading Screenshot 2026-01-09 200955.png…]()
+ />
 </p>
 <p>
 Log into the VM with Remote Desktop
