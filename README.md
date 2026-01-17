@@ -138,6 +138,11 @@ Enable: php_opcache.dll
 Refresh the osTicket site in your browser, observe the changes
 <img width="2560" height="1440" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/c11b0fd6-599d-410f-a12b-4817c6bc3914" />
 <img width="2560" height="1440" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/fadd8a23-7e06-40d4-b359-4a7c00819690" />
+Rename: ost-config.php
+From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
+To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+<img width="2560" height="1440" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/342b22c3-6de7-41b9-98ed-e4354c2a720d" />
+<img width="2560" height="1440" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/f310c8b9-8d1c-4b06-86e2-9f809a9afe02" />
 
 
 
