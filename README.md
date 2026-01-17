@@ -157,6 +157,12 @@ Create a database called “osTicket”
 Congratulations, hopefully it is installed with no errors!
 Browse to your help desk login page: http://localhost/osTicket/scp/login.php
 <img width="2560" height="1440" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/b71ce4a9-928d-438e-9ee8-b8ae8c8102f6" />
+“Troubleshooting / Lessons Learned”
+## Troubleshooting & Lessons Learned
+- IIS will not process PHP unless CGI is enabled
+- Missing PHP extensions can prevent osTicket installation
+- File permissions on ost-config.php are critical
+- Restarting IIS is required after configuration changes
 
 
 
