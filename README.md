@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-## Project Overview
+ Project Overview
 This project demonstrates the deployment of an osTicket help desk system
 using Microsoft Azure, Windows Server, IIS, PHP, and MySQL.
 
