@@ -91,7 +91,8 @@ World Wide Web Services -> Application Development Features -> [X] CGI
 </p>
 <br />
 
-<p>
+From the “osTicket-Installation-Files” folder, install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
+
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
