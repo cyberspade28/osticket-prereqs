@@ -45,10 +45,9 @@ Open ports 80 and 3389 in Azure NSG
 <h2>Installation Steps</h2>
 
 
-<p>
- />
-</p>
-<p>
+
+ 
+
 Log into the VM with Remote Desktop
 
 Within the VM (osticket-vm), download the osTicket-Installation-Files.zip and unzip it onto your desktop. The folder should be called “osTicket-Installation-Files”
